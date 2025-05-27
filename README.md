@@ -1,5 +1,10 @@
 # phishing_email_check
 
+## tools used :-
+## 1.mxtoolbox.com
+## 2.phishtank.com
+## 3.urlscan.io
+
 ## Phishing Email Analysis
 
 *Suspicious Domain:* tonclaimaward.sbs
@@ -24,3 +29,5 @@ The domain appears suspicious due to:
 - Lack of MX records
 - Unclear or deceptive purpose
 - Likely used in a phishing email campaign
+
+
